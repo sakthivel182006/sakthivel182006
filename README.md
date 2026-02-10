@@ -1,158 +1,238 @@
-<h1 align="center">Hi 👋, I'm Sakthivel V</h1>
-<h3 align="center">Full Stack Developer | MERN | Spring Boot | Cloud</h3>
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Sakthivel V
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakthivel182006&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+### Full Stack Developer | MERN | Spring Boot | Cloud Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;3%2B+Years+of+Experience;MERN+%7C+Spring+Boot+%7C+AWS;Building+Scalable+Applications" alt="Typing SVG" />
+
+<p>
+  <a href="https://sakthiveldev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sakthivel2006" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sakthivelv202222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://sakthiveldev.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sakthivel2006" target="_blank">LinkedIn</a> •
-  <a href="mailto:sakthivelv202222@gmail.com">Email</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=sakthivel182006&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> About Me
+```javascript
+const sakthivel = {
+    role: "Full Stack Developer",
+    experience: "3+ years",
+    code: ["Java", "JavaScript", "Python", "Dart"],
+    technologies: {
+        frontEnd: ["React", "HTML", "CSS", "Flutter"],
+        backEnd: ["Spring Boot", "Node.js", "Express.js"],
+        databases: ["MySQL", "MongoDB"],
+        cloud: ["AWS", "Vercel", "Render"],
+        mobile: ["Android Studio", "Flutter"]
+    },
+    currentFocus: "Building scalable cloud-native applications",
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
 
-I’m **Sakthivel V**, a **Full Stack Developer** with **3+ years of hands-on experience** building responsive, scalable, and user-focused web and mobile applications.
-
-- 🚀 Strong in **end-to-end application development**
+- 🔭 Currently working on **Cloud-Native Full Stack Applications**
+- 🌱 Learning **Microservices Architecture & DevOps**
 - 💡 Passionate about converting ideas into **real-world digital products**
-- ☁️ Experienced in **Cloud, Payments, Authentication, and Analytics**
-- 🎯 Focused on clean UI, secure backend, and performance
+- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML, CSS, JavaScript
-- React
+<div align="center">
 
-### Backend
-- Java, Spring Boot
-- Node.js, Express.js
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### Mobile Development
-- Android Studio
-- Flutter
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Databases & Machine Learning
-- MySQL, MongoDB
-- Python, Pandas, NumPy
-- NLP, Machine Learning Basics
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Cloud & Deployment
-- AWS
-- Vercel
-- Render
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Payments & Authentication
-- Razorpay, PayPal (Real-time Payments)
-- SMTP Mail Configuration
-- Email Verification Systems
-
-### SEO & Analytics
-- Google Search Console
-- SEO Tools
-- Text Processing
-- Sentiment Analysis
-
-### Development Tools
-- Git, GitHub
-- VS Code
-- Android Studio
-- Jupyter Notebook
-- Google Colab
+</div>
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-### Full Stack & Mobile Application Developer  
-**Independent / Self Projects**  
-📅 *2023 – Present*
+<div align="center">
 
-**Technologies:** Java, Spring Boot, React, Android, AWS
+<table>
+<tr>
+<td width="50%">
 
-- Built responsive web & mobile apps using **React, Android, Flutter**
-- Developed scalable **REST APIs & microservices**
-- Integrated **AWS & Google Cloud**, media storage with **Cloudinary**
-- Implemented **secure payments** and **email verification systems**
+### 🎓 E-Learning Platform
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://learnfromsakthi.vercel.app/)
+
+**Tech Stack:** MERN, Razorpay, SMTP
+
+Role-based platform with MCQ assessments and course management
+
+![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
+![Payment](https://img.shields.io/badge/Razorpay-Integrated-3395FF?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🏥 Insurance Application
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://sakthiinsurance.vercel.app/)
+
+**Tech Stack:** Spring Boot, React, Razorpay
+
+Real-time insurance platform with claim settlement
+
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 Social Media Platform
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://sakthisoftwaresolutions.vercel.app/)
+
+**Tech Stack:** MERN, Cloudinary
+
+Social platform with chat and media uploads
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 💻 Online Code Compiler
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://sakthijavacompiler.vercel.app/)
+
+**Tech Stack:** MERN Stack
+
+Browser-based compiler for Java, Python, C++
+
+![Code](https://img.shields.io/badge/Multi_Language-Support-F7DF1E?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🚀 Projects (Live Links)
+## 🏆 GitHub Trophies
 
-### 1️⃣ E-Learning Platform  
-🔗 **Live:** https://learnfromsakthi.vercel.app/  
-**Tech:** MERN Stack, Razorpay, SMTP  
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=sakthivel182006&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
 
-Role-based platform for **Students, Teachers, Colleges, and Admins** with  
-MCQ assessments and **paid / free courses**.
-
----
-
-### 2️⃣ Insurance Application System  
-🔗 **Live:** https://sakthiinsurance.vercel.app/  
-**Tech:** Spring Boot, React, Razorpay, SMTP  
-
-Real-time insurance platform supporting **User, Agent, and Admin** roles  
-with **online payments and claim settlement**.
-
----
-
-### 3️⃣ Social Media Platform  
-🔗 **Live:** https://sakthisoftwaresolutions.vercel.app/  
-**Tech:** MERN Stack, Cloudinary  
-
-Social media app with **chat, image/video uploads**, and role-based access.
-
----
-
-### 4️⃣ Online Code Compiler  
-🔗 **Live:** https://sakthijavacompiler.vercel.app/  
-**Tech:** MERN Stack  
-
-Browser-based compiler supporting **Java, Python, and C++**  
-with **live code execution**.
-
----
-
-### 5️⃣ Software Testing Portal (Offline)  
-**Tech:** Spring Boot, React  
-
-Local testing management portal for **test cases, execution reports, and defect tracking**.
-
----
-
-## 🏆 Awards & Certifications
-
-- 🏅 **IBM Spring Boot & React Certificate – Coursera (2024)**  
-  Completed 8 practical case studies involving **SQL, dashboards, and presentations**.
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering – Computer Science and Engineering**  
-Sri Krishna College of Technology  
-📅 *2023 – 2027*  
-📊 **CGPA:** 7.71 / 10
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakthivel182006&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakthivel182006&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakthivel182006&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakthivel182006&theme=tokyonight" />
-</p>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthivel182006&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### ⭐ If you like my work, feel free to follow and connect!
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Sakthivel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakthivel182006&theme=tokyo-night)](https://github.com/sakthivel182006)
+
+</div>
+
+---
+
+## 🎓 Certifications & Education
+
+<div align="center">
+
+| 🏅 Certification | 📅 Year |
+|------------------|---------|
+| IBM Spring Boot & React - Coursera | 2024 |
+| Full Stack Development | 2023 |
+
+**🎓 B.E. Computer Science & Engineering**  
+Sri Krishna College of Technology (2023-2027) | CGPA: 7.71/10
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakthivel182006&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sakthiveldev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthivel2006)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthivelv202222@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakthivel182006)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ Show some love by starring my repositories!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**💬 "Code is like humor. When you have to explain it, it's bad!" – Cory House**
+
+![Snake animation](https://github.com/sakthivel182006/sakthivel182006/blob/output/github-contribution-grid-snake.svg)
+
+</div>
