@@ -44,10 +44,6 @@ const sakthivel = {
 };
 ```
 
-- 🔭 Currently working on **Cloud-Native Full Stack Applications**
-- 🌱 Learning **Microservices Architecture & DevOps**
-- 💡 Passionate about converting ideas into **real-world digital products**
-- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 ---
 
